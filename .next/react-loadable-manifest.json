@@ -1,0 +1,35 @@
+{
+  "Locomotive.js -> locomotive-scroll": {
+    "id": 6267,
+    "files": [
+      "static/chunks/267.26004c7433b445bf8278.js"
+    ]
+  },
+  "index copy.js -> ../components/Floating": {
+    "id": 6294,
+    "files": [
+      "static/chunks/fb7d5399-c75c2124bfa1f753df2c.js",
+      "static/chunks/160-d11937abcee381d977f8.js",
+      "static/chunks/889-0062a42db1f23af1754a.js",
+      "static/chunks/294.02e3531e016553cd0328.js"
+    ]
+  },
+  "locoFinally.js -> locomotive-scroll": {
+    "id": 6267,
+    "files": [
+      "static/chunks/267.26004c7433b445bf8278.js"
+    ]
+  },
+  "locoLerp.js -> locomotive-scroll": {
+    "id": 6267,
+    "files": [
+      "static/chunks/267.26004c7433b445bf8278.js"
+    ]
+  },
+  "locos.js -> locomotive-scroll": {
+    "id": 6267,
+    "files": [
+      "static/chunks/267.26004c7433b445bf8278.js"
+    ]
+  }
+}

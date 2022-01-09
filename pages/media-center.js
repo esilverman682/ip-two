@@ -1,4 +1,4 @@
- import ZoomOutimages from '../components/Hero/zoomOutimages'
+ import ZoomOutimages from '../components/Hero/ZoomOutimages'
 
 const content = {
   animate: {
